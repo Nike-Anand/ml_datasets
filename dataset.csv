@@ -1,11 +1,21 @@
-Business_ID,Industry,Size,Target_Audience,Products,Revenue_Target,Conversion_Rate,Competitor_Strategy,Trends,Historical_ROI,Recommended_Strategy
-1,Tech,SME,B2B,Cloud SaaS,1M,5%,Aggressive Pricing,AI Adoption|Cost Optimization,30%,Freemium with Premium Add-ons|Webinars
-2,Retail,Enterprise,B2C,Fashion Accessories,5M,10%,Seasonal Promotions,Sustainable Fashion|E-commerce Growth,50%,Loyalty Program|Social Media Marketing
-3,Healthcare,Startup,B2B,Health Tech Solutions,500K,3%,Partnerships,Digital Health|Aging Population,20%,Collaborative Partnerships|LinkedIn Outreach
-4,E-commerce,SME,B2C,Grocery Delivery,2M,8%,Dynamic Pricing,Local Sourcing|Convenience Trends,25%,Discounted Subscription|Email Campaigns
-5,Finance,Enterprise,B2B,FinTech Tools,10M,7%,High-Value Offers,Digital Transformation|Regulatory Compliance,40%,Custom Demos|Personalized Consultations
-6,Tech,Startup,B2B,AI Hardware,1.5M,6%,Penetration Pricing,AI Boom|Automation Trends,35%,Competitive Discounts|Tech Conferences
-7,Retail,SME,B2C,Home Decor,3M,9%,Flash Sales,DIY Trends|Minimalism,45%,Instagram Ads|Limited-Time Offers
-8,Healthcare,Enterprise,B2B,Medical Devices,8M,5%,Exclusive Partnerships,Advanced Imaging|Cost-Effectiveness,55%,Industry Partnerships|Webinar Series
-9,E-commerce,Startup,B2C,Beauty Products,750K,4%,Influencer Marketing,Skin Care Routines|Natural Products,15%,Influencer Collaborations|YouTube Tutorials
-10,Finance,SME,B2B,Accounting Software,4M,6%,Bundled Offers,Cloud Integration|Remote Work Trends,25%,Free Trial Period|Content Marketing
+CustomerID,Name,Age,Email,City,JoinDate,LastPurchase,ItemsPurchased,SpentAmount,DiscountCode,,
+1,John Doe,30,johndoe@email.com,New York,15-01-23,26-10-23,A,B,C,120.5,DISC10
+2,Jane Smith,25,jane.smith@email.com,London,20-02-23,25-10-23,A,D,E,250,
+3,David Lee,40,david.lee@email.com,Paris,01-11-22,24-10-23,B,C,F,180.75,
+4,Sarah Jones,28,sarah.j@email.com,,10-03-23,23-10-23,A,B,D,95,DISC5
+5,Michael Brown, ,michael.b@email.com,New York,05-04-23,22-10-23,C,E,G,300.2,DISC10
+6,Emily Davis,35,emily.davis@email.com,New York,12-05-23,21-10-23,A,B,C,150,
+7,Christopher Wilson,45,c.wilson@email.com,London,18-06-23,20-10-23,B,D,F,225,DISC10
+8,Jessica Garcia,22,jessica.g@email.com,Paris,25-07-23,19-10-23,A,D,E,110.5,
+9,Kevin Rodriguez,50,kevin.r@email.com,,01-10-22,18-10-23,A,B,G,280,DISC5
+10,Ashley Martinez,,ashley.m@email.com,London,08-08-23,17-10-23,C,E,F,195.75,
+11,William Anderson,33,william.a@email.com,Paris,15-09-23,16-10-23,A,B,D,135,
+12,Elizabeth Thomas,38,elizabeth.t@email.com,New York,22-01-23,15-10-23,B,C,E,210.25,DISC10
+13,James Jackson,42,james.j@email.com,London,28-02-23,14-10-23,A,D,G,265,
+14,Margaret White,27,margaret.w@email.com,Paris,05-03-23,13-10-23,C,E,F,160,DISC5
+15,Anthony Harris,,anthony.h@email.com,,10-12-22,12-10-23,A,B,C,290.5,DISC10
+16,Linda Martin,31,linda.m@email.com,London,12-04-23,11-10-23,B,D,E,205,
+17,Christopher Thompson,47,christopher.t@email.com,Paris,18-05-23,10-10-23,A,B,D,145.25,
+18,Angela Garcia,24,angela.g@email.com,New York,24-06-23,09-10-23,C,E,G,275,DISC5
+19,Joshua Rodriguez,52,joshua.r@email.com,London,01-07-23,08-10-23,A,D,F,230.75,
+20,Melissa Wilson,36,melissa.w@email.com,Paris,07-08-23,07-10-23,B,C,E,175,DISC10
